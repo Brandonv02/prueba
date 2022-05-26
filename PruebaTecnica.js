@@ -42,5 +42,4 @@ function calcular(){
     //usar variables
     NumerosPerfectosRango(initialRange, finalRange);
 
-    
 }
